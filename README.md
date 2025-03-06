@@ -8,4 +8,4 @@ The idea of the repository is to have an open, shared location to collect and sh
 
 
 ### Readings
-[DevSecOps](../blob/master/readings/devsecops/main.md)
+[DevSecOps](../main/readings/devsecops/main.md)
