@@ -14,7 +14,7 @@
 [WIP]
 
 ## Tools
-Check separate file: [tools.md](../blob/master/materials/tools.md)
+Check separate file: [tools.md](../main/materials/tools.md)
 
 ## More on selected topics
 [WIP]
