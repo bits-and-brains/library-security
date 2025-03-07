@@ -8,4 +8,6 @@ The idea of the repository is to have an open, shared location to collect and sh
 
 
 ### Readings
-[DevSecOps](./readings/devsecops/main.md)
+- [DevSecOps](./readings/devsecops/main.md)
+- Security Teams
+  - [KPI and metrics](./readings/security_teams/kpi.md)
